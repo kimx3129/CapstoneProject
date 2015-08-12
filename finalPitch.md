@@ -2,7 +2,7 @@
 Data Science Capstone Project Final Report
 ========================================================
 author: Sungmin Kim
-date: Aug 12 2015
+date: Aug 13 2015
 transition: rotate
 font-family: 'Helvetica'
 css: custom.css
