@@ -131,7 +131,7 @@ Future Works and References
 <br><br>
 
 ## References
-- My word prediction app : [https://kimx3129.shinyapps.io/capstone](https://kimx3129.shinyapps.io/capstone)
+- My word prediction app : [https://kimx3129.shinyapps.io/final](https://kimx3129.shinyapps.io/final)
 - Katz Backoff Algorithm : [http://www.cs.rutgers.edu/cs/media/Class/Grad/cs533-spring2010/Lecture03_2X.pdf](http://www.cs.rutgers.edu/cs/media/Class/Grad/cs533-spring2010/Lecture03_2X.pdf)
 - Good-Turing Estimation : [https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation](https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation)
 - Coursera Data Science Specialization : [https://www.coursera.org/specialization/jhudatascience/1](https://www.coursera.org/specialization/jhudatascience/1) 
